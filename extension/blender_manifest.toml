@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "chainsmith"
+version = "0.2.0-beta"
+name = "ChainSmith"
+tagline = "Pivot-linked chains, bracelets and straps along a curve"
+maintainer = "hassanziah-byte"
+type = "add-on"
+
+blender_version_min = "5.3.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Geometry Nodes", "Modeling", "Object"]

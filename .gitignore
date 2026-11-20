@@ -1,0 +1,7 @@
+# headless Blender profiles (see run_blender.sh)
+.blender_isolated/
+.blender_isolated_net/
+# build output
+dist/
+*.blend1
+__pycache__/
